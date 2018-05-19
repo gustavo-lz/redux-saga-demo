@@ -4,7 +4,7 @@ import List from './components/list';
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div>
         <h1>API Call Test</h1>
 
         <List
